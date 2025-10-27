@@ -1,0 +1,39 @@
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos sensíveis / chaves
+*.pem
+*.key
+*.crt
+*.env
+
+# Artefatos de VM
+*.vbox
+*.vmdk
+*.ova
+*.ovf
+
+# Arquivos de log e saída pesada (opcional)
+logs/
+*.log
+*.tmp
+
+# Node / Python / outros (caso venha a adicionar)
+node_modules/
+__pycache__/
+*.pyc
+
+# Arquivos gerados por build / caches
+dist/
+build/
+*.egg-info/
+
+# Arquivos grandes que não devem ir ao repositório
+*.iso
+*.img
+
+# Git keep (manter pastas vazias)
+!.gitkeep
