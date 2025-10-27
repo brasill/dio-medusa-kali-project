@@ -51,6 +51,9 @@ Verificação manual de login anônimo e análise do banner FTP.
 ### 3️⃣ - Acesso à Aplicação DVWA
 
 O alvo expõe a aplicação **Damn Vulnerable Web App (DVWA)**, usada para testes de vulnerabilidades web.
+Username: admin
+Password: password
+
 
 📸 **Evidência:**
 
@@ -72,7 +75,7 @@ medusa -h 172.16.111.129 -U users.txt -P passwords.txt -M http -t 6 \
 
 ![Medusa HTTP](./images/medusa_http.png)
 
-**Resultado:** Credenciais encontradas — `root : msfadmin`
+**Resultado:** Credenciais encontradas — `admin : password`
 
 ---
 
