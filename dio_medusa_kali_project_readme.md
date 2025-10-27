@@ -159,4 +159,4 @@ O exercício demonstrou de forma prática como vulnerabilidades simples podem se
 
 ---
 
-> ⚠️ *Este projeto tem fins exclusivamente educacionais e foi executado em ambiente controlado. Não realize testes semelhantes em sistemas sem aut
+> ⚠️ *Este projeto tem fins exclusivamente educacionais e foi executado em ambiente controlado. Não realize testes semelhantes em sistemas sem autorização.
